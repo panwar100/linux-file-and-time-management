@@ -7,7 +7,7 @@ This repository provides examples and explanations for basic Linux commands rela
 
 2.[File Compression and Extraction](#2-file-compression-and-extraction)
 
-3.[Transfer Files Between Systems](#3-transfer-files-between-system)
+3.[Transfer Files Between Systems](#3-transfer-files-between-systems)
 
 4.[Using Rsync for Synchronization](#4-using-rsync-for-synchronization)
 
